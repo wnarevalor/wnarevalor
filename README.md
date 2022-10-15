@@ -1,4 +1,6 @@
-### Hi there 👋
+###  Hello! I'm Nicolas. 
+I'm interested in web development and databases.  
+Check out my personal website [here](https://wnarevalor.netlify.app/).
 
 <!--
 **wnarevalor/wnarevalor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
